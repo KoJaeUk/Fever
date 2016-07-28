@@ -47,7 +47,7 @@ if (typeof jQuery === 'undefined') {
       }
     }
 
-    return false // explicit for ie8 (  ._.)
+    return false 
   }
 
   // http://blog.alexmaccaw.com/css-transitions
