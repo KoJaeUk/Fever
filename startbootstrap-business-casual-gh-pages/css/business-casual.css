@@ -6,10 +6,9 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/bg.jpg') no-repeat center center fixed;
+    background: url('../img/dgarfeaqhrehrehehe.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
     -o-background-size: cover;
 }
 
@@ -189,4 +188,10 @@ footer p {
         display: table;
         clear: both;
     }
+}
+.main-text1{
+    font-size: 25pt;
+    text-shadow: 10 10 10 10 red;
+    vertical-align: middle;
+    text-align: center;
 }
